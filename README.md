@@ -9,7 +9,7 @@
 
  <div>
  <a href="https://github.com/wiusdy">
- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiusdy&layout=compact&langs_count=7&theme=dracula"/>
+ <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiusdy&layout=compact&langs_count=3&theme=dracula"/>
  </div>
 
 ### Contacts:
